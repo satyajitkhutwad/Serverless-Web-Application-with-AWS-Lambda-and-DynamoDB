@@ -17,10 +17,10 @@
 
 
 ### Reflections
-####Challenges faced.
+#### Challenges faced
 I faced access-denied issues until I gave appropriate IAM privileges to the Lambda function for accessing DynamoDB.
 Also, while testing the API through the browser, I encountered errors until I enabled CORS in the API Gateway.
 Moreover, getting used to the NoSQL nature of MongoDB was a challenge at first but turned out to be very convenient while implementing the CRUD operations.
 
-####Learnings
+#### Learnings
 This assignment helped me learn to work with serverless backends with the help of API Gateways and Lambda functions in AWS. It also gave me a fair understanding of various configurations and IAM privileges required for connecting your services to DynamoDB. Understanding how to implement CRUD operations on a NoSQL database was the highlight for me. The serverless nature of Lambda and the scalability that it offers are the two important learnings for me in this assignment.
