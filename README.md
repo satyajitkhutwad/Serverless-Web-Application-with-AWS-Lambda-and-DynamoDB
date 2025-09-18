@@ -1,5 +1,5 @@
 # Serverless-Web-Application-with-AWS-Lambda-and-DynamoDB
-
+### Objectives
 1. Trigger a Lambda function using an API Gateway.
 2. Interact with DynamoDB to perform basic CRUD operations.
 3. Deploy and test the application in the AWS environment.
